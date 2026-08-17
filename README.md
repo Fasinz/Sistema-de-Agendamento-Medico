@@ -48,11 +48,11 @@ O sistema possui autenticação por níveis de acesso e contempla as rotinas de 
 
 ## Estrutura do Banco
 
-- usuarios
-- medicos
-- pacientes
-- consultas
 - atendimentos
+- atestados
+- consultas
+- especialidades
+- medicos
 - receitas
 - itens_receita
 - atestados
